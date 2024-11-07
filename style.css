@@ -1,0 +1,37 @@
+/* static/style.css */
+body {
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-color: #c15136;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+
+nav a {
+    color: white;
+    margin: 0 10px;
+    text-decoration: none;
+}
+
+table {
+    width: 80%;
+    margin: 20px auto;
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 10px;
+    border: 1px solid #ddd;
+    text-align: left;
+}
+
+button {
+    padding: 5px 10px;
+    background-color: #c15136;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
